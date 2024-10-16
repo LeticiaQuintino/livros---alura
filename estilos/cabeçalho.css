@@ -1,0 +1,14 @@
+. cabeç alho_menu -hamburguer {​
+. cabeç alho__menu -hamburguer {​
+    largura :  24 px ;
+    altura :  24 px ;
+    exibição : bloco embutido;
+@@ -52,4 +52,8 @@
+    -webkit-text-fill-color : transparente;
+    background-clip : texto;
+    text-transform : maiúsculas;
+}
+
+. container__botao {
+    exibição : nenhuma;
+}
